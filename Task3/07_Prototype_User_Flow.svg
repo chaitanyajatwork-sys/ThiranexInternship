@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#f4f7fb"/>
+<text x="60" y="70" font-family="Arial" font-size="34" font-weight="700" fill="#14213d">AirSense AI — Clickable Prototype Flow</text>
+
+<rect x="80" y="160" width="250" height="100" rx="18" fill="white" stroke="#2563eb" stroke-width="3"/><text x="205" y="220" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Welcome</text>
+<line x1="330" y1="210" x2="430" y2="210" stroke="#64748b" stroke-width="4"/><polygon points="430,210 410,198 410,222" fill="#64748b"/>
+<rect x="430" y="160" width="250" height="100" rx="18" fill="white" stroke="#2563eb" stroke-width="3"/><text x="555" y="220" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Home / AQI</text>
+<line x1="680" y1="210" x2="780" y2="210" stroke="#64748b" stroke-width="4"/><polygon points="780,210 760,198 760,222" fill="#64748b"/>
+<rect x="780" y="160" width="250" height="100" rx="18" fill="white" stroke="#2563eb" stroke-width="3"/><text x="905" y="220" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Health Advice</text>
+<line x1="905" y1="260" x2="905" y2="350" stroke="#64748b" stroke-width="4"/><polygon points="905,350 893,330 917,330" fill="#64748b"/>
+<rect x="780" y="350" width="250" height="100" rx="18" fill="white" stroke="#2563eb" stroke-width="3"/><text x="905" y="410" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Forecast</text>
+<line x1="780" y1="400" x2="680" y2="400" stroke="#64748b" stroke-width="4"/><polygon points="680,400 700,388 700,412" fill="#64748b"/>
+<rect x="430" y="350" width="250" height="100" rx="18" fill="white" stroke="#2563eb" stroke-width="3"/><text x="555" y="410" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Alerts</text>
+<line x1="430" y1="400" x2="330" y2="400" stroke="#64748b" stroke-width="4"/><polygon points="330,400 350,388 350,412" fill="#64748b"/>
+<rect x="80" y="350" width="250" height="100" rx="18" fill="white" stroke="#2563eb" stroke-width="3"/><text x="205" y="410" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Notification → Home</text>
+<text x="80" y="560" font-family="Arial" font-size="21" fill="#475569">Interactions: button tap • forward navigation • back navigation • alert save • return to home.</text>
+</svg>

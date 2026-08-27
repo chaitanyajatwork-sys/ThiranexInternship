@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#f4f7fb"/>
+<text x="60" y="70" font-family="Arial" font-size="34" font-weight="700" fill="#14213d">AirSense AI — Prototype Testing</text>
+
+<rect x="70" y="140" width="1260" height="610" rx="24" fill="white" stroke="#d9e0ea"/>
+<text x="105" y="200" font-family="Arial" font-size="25" font-weight="700" fill="#2563eb">5-minute usability test</text>
+<text x="105" y="250" font-family="Arial" font-size="20" fill="#26354d">Task 1: Find today's AQI.</text>
+<text x="105" y="295" font-family="Arial" font-size="20" fill="#26354d">Task 2: Find the health recommendation.</text>
+<text x="105" y="340" font-family="Arial" font-size="20" fill="#26354d">Task 3: Check the forecast.</text>
+<text x="105" y="385" font-family="Arial" font-size="20" fill="#26354d">Task 4: Set an air-quality alert.</text>
+<text x="105" y="430" font-family="Arial" font-size="20" fill="#26354d">Task 5: Return to Home after saving the alert.</text>
+<text x="105" y="500" font-family="Arial" font-size="25" font-weight="700" fill="#2563eb">Demo feedback (illustrative)</text>
+<text x="105" y="545" font-family="Arial" font-size="20" fill="#26354d">• 4/5 users completed all tasks without assistance.</text>
+<text x="105" y="585" font-family="Arial" font-size="20" fill="#26354d">• 1 user expected Alerts to be visible from Home.</text>
+<text x="105" y="625" font-family="Arial" font-size="20" fill="#26354d">• 3/5 users asked for clearer distinction between AQI and advice.</text>
+<text x="105" y="680" font-family="Arial" font-size="20" fill="#26354d">Iteration: add a clearer alert shortcut and stronger content hierarchy.</text>
+</svg>
