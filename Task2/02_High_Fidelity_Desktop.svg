@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#F8FAFC"/>
+<text x="60" y="55" font-family="Arial" font-size="30" font-weight="700" fill="#0F172A">AirSense AI — High-Fidelity Desktop Mockup</text>
+<text x="60" y="84" font-family="Arial" font-size="16" fill="#64748B">Redesigned dashboard for fast AQI comprehension and action</text>
+<rect x="60" y="125" width="1080" height="100" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="85" y="157" font-family="Arial" font-size="18" font-weight="700" fill="#2563EB">Header</text>
+<text x="85" y="187" font-family="Arial" font-size="15" fill="#334155">AirSense logo • Dashboard • Forecast • Health • Profile</text>
+<rect x="60" y="245" width="1080" height="100" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="85" y="277" font-family="Arial" font-size="18" font-weight="700" fill="#2563EB">Primary card</text>
+<text x="85" y="307" font-family="Arial" font-size="15" fill="#334155">AQI 78 • Moderate • updated 2 min ago • View health advice • Set an alert</text>
+<rect x="60" y="365" width="1080" height="100" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="85" y="397" font-family="Arial" font-size="18" font-weight="700" fill="#2563EB">Guidance</text>
+<text x="85" y="427" font-family="Arial" font-size="15" fill="#334155">Today’s guidance with plain-language recommendations</text>
+<rect x="60" y="485" width="1080" height="100" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="85" y="517" font-family="Arial" font-size="18" font-weight="700" fill="#2563EB">Forecast</text>
+<text x="85" y="547" font-family="Arial" font-size="15" fill="#334155">24-hour outlook with simple trend visualization</text>
+<rect x="60" y="605" width="1080" height="100" rx="18" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="85" y="637" font-family="Arial" font-size="18" font-weight="700" fill="#2563EB">Design goal</text>
+<text x="85" y="667" font-family="Arial" font-size="15" fill="#334155">Current AQI first → actionable guidance second → supporting forecast third</text>
+</svg>
