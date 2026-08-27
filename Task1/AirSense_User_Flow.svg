@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850">
+<rect x="0" y="0" width="1400" height="850" rx="0" fill="#F8FAFC" stroke="#F8FAFC" stroke-width="0"/>
+<text x="50" y="60" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="700" text-anchor="start" fill="#111827">AirSense AI — User Flow</text>
+<text x="50" y="95" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" text-anchor="start" fill="#111827">Core journey: check air quality → understand risk → take action</text>
+<rect x="80" y="180" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="190.0" y="224" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Open AirSense</text>
+<rect x="430" y="180" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="540.0" y="224" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Set / confirm location</text>
+<rect x="780" y="180" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="890.0" y="224" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">View current AQI</text>
+<rect x="1130" y="180" width="190" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="1225.0" y="224" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">View details</text>
+<rect x="780" y="360" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="890.0" y="404" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Check forecast</text>
+<rect x="430" y="360" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="540.0" y="404" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Set alert</text>
+<rect x="80" y="360" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="190.0" y="404" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Update health profile</text>
+<rect x="430" y="540" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="540.0" y="584" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Receive alert</text>
+<rect x="780" y="540" width="220" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="890.0" y="584" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Follow recommendation</text>
+<rect x="1130" y="540" width="190" height="75" rx="14" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<text x="1225.0" y="584" font-family="Arial, Helvetica, sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#111827">Return to Home</text>
+<line x1="300" y1="217" x2="430" y2="217" stroke="#6B7280" stroke-width="2" />
+<polygon points="430,217 421.22417438109625,221.79425538604204 421.22417438109625,212.20574461395796" fill="#6B7280"/>
+<line x1="650" y1="217" x2="780" y2="217" stroke="#6B7280" stroke-width="2" />
+<polygon points="780,217 771.2241743810963,221.79425538604204 771.2241743810963,212.20574461395796" fill="#6B7280"/>
+<line x1="1000" y1="217" x2="1130" y2="217" stroke="#6B7280" stroke-width="2" />
+<polygon points="1130,217 1121.2241743810962,221.79425538604204 1121.2241743810962,212.20574461395796" fill="#6B7280"/>
+<line x1="875" y1="255" x2="875" y2="360" stroke="#6B7280" stroke-width="2" />
+<polygon points="875,360 870.205744613958,351.22417438109625 879.794255386042,351.22417438109625" fill="#6B7280"/>
+<line x1="780" y1="397" x2="650" y2="397" stroke="#6B7280" stroke-width="2" />
+<polygon points="650,397 658.7758256189037,392.20574461395796 658.7758256189037,401.79425538604204" fill="#6B7280"/>
+<line x1="540" y1="435" x2="540" y2="540" stroke="#6B7280" stroke-width="2" />
+<polygon points="540,540 535.205744613958,531.2241743810963 544.794255386042,531.2241743810963" fill="#6B7280"/>
+<line x1="300" y1="397" x2="430" y2="397" stroke="#6B7280" stroke-width="2" />
+<polygon points="430,397 421.22417438109625,401.79425538604204 421.22417438109625,392.20574461395796" fill="#6B7280"/>
+<line x1="650" y1="577" x2="780" y2="577" stroke="#6B7280" stroke-width="2" />
+<polygon points="780,577 771.2241743810963,581.794255386042 771.2241743810963,572.205744613958" fill="#6B7280"/>
+<line x1="1000" y1="577" x2="1130" y2="577" stroke="#6B7280" stroke-width="2" />
+<polygon points="1130,577 1121.2241743810962,581.794255386042 1121.2241743810962,572.205744613958" fill="#6B7280"/>
+<text x="50" y="700" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" text-anchor="start" fill="#111827">Decision points</text>
+<text x="50" y="735" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• If location is unavailable → allow manual city selection.</text>
+<text x="50" y="760" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• If AQI crosses the user&#x27;s threshold → trigger an alert.</text>
+<text x="50" y="785" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• If the user has a health sensitivity → prioritize safer outdoor-activity guidance.</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#F8FAFC" stroke="#F8FAFC" stroke-width="0"/>
+<text x="50" y="60" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="700" text-anchor="start" fill="#111827">AirSense AI — User Persona</text>
+<rect x="50" y="100" width="1100" height="510" rx="20" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="2"/>
+<circle cx="180" cy="230" r="70" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+<text x="180" y="235" font-family="Arial, Helvetica, sans-serif" font-size="32px" font-weight="700" text-anchor="middle" fill="#111827">AS</text>
+<text x="280" y="160" font-family="Arial, Helvetica, sans-serif" font-size="27px" font-weight="700" text-anchor="start" fill="#111827">Riya Sharma</text>
+<text x="280" y="195" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" text-anchor="start" fill="#111827">20 • College student • Urban resident</text>
+<text x="90" y="355" font-family="Arial, Helvetica, sans-serif" font-size="19px" font-weight="700" text-anchor="start" fill="#111827">Goals</text>
+<text x="90" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Know whether outdoor activity is safe</text>
+<text x="90" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Get simple, actionable AQI guidance</text>
+<text x="90" y="450" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Receive alerts before conditions worsen</text>
+<text x="90" y="500" font-family="Arial, Helvetica, sans-serif" font-size="19px" font-weight="700" text-anchor="start" fill="#111827">Pain points</text>
+<text x="90" y="535" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• AQI numbers are hard to interpret</text>
+<text x="90" y="565" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Information is spread across apps</text>
+<text x="600" y="355" font-family="Arial, Helvetica, sans-serif" font-size="19px" font-weight="700" text-anchor="start" fill="#111827">Behaviors</text>
+<text x="600" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Checks weather before leaving</text>
+<text x="600" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Uses mobile apps for quick decisions</text>
+<text x="600" y="450" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Wants notifications, not long reports</text>
+<text x="600" y="500" font-family="Arial, Helvetica, sans-serif" font-size="19px" font-weight="700" text-anchor="start" fill="#111827">Needs from AirSense</text>
+<text x="600" y="535" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Clear AQI status and pollutant details</text>
+<text x="600" y="565" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" text-anchor="start" fill="#111827">• Forecast + personalized recommendations</text>
+</svg>
