@@ -1,0 +1,6 @@
+Participant,Age,Profile,Tasks Completed,Task Success Rate,Avg Task Time,SUS-style Rating /5,Needed Assistance
+P01,19,Student,5/5,92%,58 sec,4.5/5,No
+P02,21,Student,5/5,88%,64 sec,4.0/5,No
+P03,20,Student,4/5,76%,79 sec,3.5/5,Yes
+P04,24,Working professional,5/5,96%,51 sec,4.5/5,No
+P05,22,Student,5/5,90%,61 sec,4.0/5,No

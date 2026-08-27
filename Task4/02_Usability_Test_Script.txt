@@ -1,0 +1,22 @@
+AirSense AI — Usability Testing Script
+
+Introduction:
+“We are testing the AirSense AI interface, not you. Please think aloud while completing the tasks.”
+
+Tasks:
+1. Find the current AQI for your location.
+2. Decide whether outdoor activity is recommended.
+3. Find today's health advice.
+4. Check the short-term forecast.
+5. Set an alert for poor air quality.
+6. Return to the Home screen.
+
+After-task questions:
+- What was easiest?
+- What was confusing?
+- Was the AQI easy to understand?
+- Was the recommended action clear?
+- What would you change?
+
+Moderator notes:
+Do not lead the participant. Record time, errors, hesitation, assistance, and comments.

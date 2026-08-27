@@ -1,0 +1,14 @@
+AirSense AI — Observation Sheet
+
+Participant:
+Date:
+Task:
+Start time:
+End time:
+Completed?:
+Errors / wrong taps:
+Hesitations:
+Assistance required:
+Participant comment:
+Severity: Low / Medium / High
+Suggested improvement:

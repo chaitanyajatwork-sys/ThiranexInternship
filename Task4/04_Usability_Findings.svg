@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850"><rect width="1400" height="850" fill="#f4f7fb"/><text x="55" y="70" font-family="Arial" font-size="34" font-weight="700" fill="#14213d">AirSense AI — Usability Testing & Analysis</text>
+<rect x="55" y="115" width="1290" height="670" rx="24" fill="white" stroke="#d9e0ea"/>
+<text x="90" y="170" font-family="Arial" font-size="28" font-weight="700" fill="#2563eb">Demo usability findings</text>
+<text x="90" y="215" font-family="Arial" font-size="20" fill="#26354d">• 4/5 participants completed every task without assistance.</text>
+<text x="90" y="255" font-family="Arial" font-size="20" fill="#26354d">• Average task success: 88.4% across the five participants.</text>
+<text x="90" y="295" font-family="Arial" font-size="20" fill="#26354d">• Average task time: approximately 63 seconds.</text>
+<text x="90" y="335" font-family="Arial" font-size="20" fill="#26354d">• Main friction: one participant hesitated between AQI status and health advice.</text>
+<text x="90" y="375" font-family="Arial" font-size="20" fill="#26354d">• Alert setup was understood after the Forecast → Set Alert path was shown.</text>
+<line x1="90" y1="415" x2="1300" y2="415" stroke="#d9e0ea"/>
+<text x="90" y="465" font-family="Arial" font-size="24" font-weight="700" fill="#14213d">Priority improvements</text>
+<text x="90" y="510" font-family="Arial" font-size="20" fill="#26354d">1. Make the primary recommendation more visually prominent.</text>
+<text x="90" y="550" font-family="Arial" font-size="20" fill="#26354d">2. Add a direct Alerts shortcut on Home.</text>
+<text x="90" y="590" font-family="Arial" font-size="20" fill="#26354d">3. Use clearer plain-language labels around AQI severity.</text>
+<text x="90" y="630" font-family="Arial" font-size="20" fill="#26354d">4. Retest after the changes to verify task time and success improve.</text>
+<text x="90" y="710" font-family="Arial" font-size="17" fill="#64748b">Note: all participant figures shown here are illustrative demo data.</text>
+</svg>
